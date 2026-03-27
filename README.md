@@ -12,7 +12,7 @@
 I'm looking for [https://github.com/helloAInative](https://github.com/helloAInative) . 
 
 ![GitHub README Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=helloAInative&hide=html&theme=gotham)
-![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=helloAInative&show_icons=true&theme=gotham&count_private=true&line_height=40)
+[![helloAInative's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloAInative)](https://github.com/helloAInative/helloAInative)
 
 ### <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> 
 
