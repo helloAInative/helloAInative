@@ -1,7 +1,5 @@
 ### Yoo, I'm Sean👋 
 
-[![GitHub Follow](https://img.shields.io/github/followers/mattn?label=Follow&style=social)](https://github.com/helloAInative)
-
 
 <div align="center">
 
@@ -41,7 +39,7 @@ width="100%"  height="2">
 
 ><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" /></div>
 
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,gradle,ai,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress,aws)](https://github.com/eryajf)
+[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,gradle,ai,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress,aws)](https://github.com/helloAInative)
 
 
 ### 💻 Stats
@@ -49,27 +47,10 @@ width="100%"  height="2">
 <a href="https://trendshift.io/developers/1903" target="_blank"><img src="https://trendshift.io/api/badge/developers/1903" alt="eryajf | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 <details open>
-<summary>点击展开 ...</summary>
 
 <div align="center">
 
-![](https://github-immortality.vercel.app/api?username=eryajf)
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
-
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/eryajf/eryajf/master/profile-3d-contrib/profile-night-rainbow.svg)
-
+![](https://github-immortality.vercel.app/api?username=helloAInative)
 
 </div>
 
